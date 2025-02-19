@@ -40,10 +40,6 @@ Some of the following workflows are inspired by Anson’s Github and will be ref
 
 Anson’s Links -  https://docs.google.com/document/d/1rPQbKr5YXVL83wVZ9ta6qcHr3gBJJwnmXnbDZyOqo-w/edit 
 
-I also have a google drive folder link with all the workflows I’ve worked on, these files contain the conda environment propagation node so that the user does not need to configure their own environment. They can merely run this node and all the relevant package version will be downloaded automatically into a makeshift environment for the workflow. 
-
-Google Drive Folder Link: https://drive.google.com/drive/folders/1qUwNDe8rpB9AYclQbCvrkLpzVYO3PiHO?usp=sharing
-
 
 ### Acknowledgements
 Thank you to Anson, who has helped me a lot in the beginning of my deep learning journey and provided me with Python examples. <br/>
